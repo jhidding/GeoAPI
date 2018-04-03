@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyConfiguration(Consts.Configuration)]
 [assembly: AssemblyCompany(Consts.Company)]
-[assembly: AssemblyProduct(Consts.Product)]
+// [assembly: AssemblyProduct(Consts.Product)]
 [assembly: AssemblyTrademark("")]
 
 [assembly: CLSCompliant(Consts.CLSCompliant)]
